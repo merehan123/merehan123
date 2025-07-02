@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 📚 I'm a second year student at the Faculty of Computer Science and Artificial Intelligence, Cairo University.</p>
+<p align="left">- 📚 I'm a second year student at the Faculty of Computers and Artificial Intelligence, Cairo University.</p>
 
 ###
 
