@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Merehan, a Computer Science and Artificial Intelligence student from Egypt with a passion for Artificial Intelligence and data-driven technologies<br><br>🔭 I’m building projects that combine AI, Machine Learning, and Data Engineering to solve real-world challenges.<br><br>📚 I'm continuously developing my skills and exploring new technologies in software engineering and artificial intelligence.<br><br>⚡ I enjoy creating impactful solutions, learning from challenges, and contributing to meaningful projects.</p>
+<p data-importer="text" align="left">I'm a Computer Science and Artificial Intelligence student from Egypt with a passion for Artificial Intelligence and data-driven technologies<br><br>🔭 I’m building projects that combine AI, Machine Learning, and Data Engineering to solve real-world challenges.<br><br>📚 I'm continuously developing my skills and exploring new technologies in software engineering and artificial intelligence.<br><br>⚡ I enjoy creating impactful solutions, learning from challenges, and contributing to meaningful projects.</p>
 
 ###
 
